@@ -1,8 +1,7 @@
 ## Hi there, my name is Shahzod - @Shahzodjohn👋
 ### I'm a .NET developer
 
-- 🧑‍💻 working on [AlifTechLLC](https://www.linkedin.com/company/alif-tech-llc/about/)
-- 🌱 learning .NET and improving skills in Asp.Net
+- 🌱 learning .NET and improving skills
 - 🌏 from Dushanbe, Tajikistan
 
 ### 📱 Connect with me:
